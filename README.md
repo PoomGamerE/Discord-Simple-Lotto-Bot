@@ -35,6 +35,8 @@ lt!spin
 รีเซ็ตข้อมูล
 lt!reset
 
-หาก Server คุณไม่เสถียร โปรดระวังเลขที่คนเล่นมาจะหายโดยไม่รู้ตัว
-(เคยเกิดขึ้นในตอนที่ run บน heroku)
-## License ([WTFPL License](https://en.wikipedia.org/wiki/WTFPL))
+## หาก Server คุณไม่เสถียร โปรดระวังเลขที่คนเล่นมาจะหายโดยไม่รู้ตัว
+### (เคยเกิดขึ้นในตอนที่ run บน heroku)
+
+
+##### License ([WTFPL License](https://en.wikipedia.org/wiki/WTFPL))
